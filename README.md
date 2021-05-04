@@ -1,3 +1,3 @@
 # YTDownloader
 
-A module checks for youtube links in linksList.txt and downloads the 320 Bitrate MP3.
+A module downloads Youtube links in the highest quality MP3 format.
